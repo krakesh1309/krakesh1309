@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh Kumar
 - 👀 I’m interested in playing volleyball, stock trading, and actively learning about investment and trading strategies. 
-- 🌱 I’m currently Aspiring Software Engineer | Data Analyst in the making | Passionate about coding, data analysis, machine learning, and solving complex problems. Currently exploring Python, Django, Flask, and data-driven technologies.
+- 🌱 I’m a passionate Computer Science graduate with expertise in Python, Django, HTML, CSS, JavaScript, and Oracle Database. I enjoy developing full-stack web applications and optimizing database performance. I regularly practice problem-solving on platforms like LeetCode and Codeforces, striving to improve my coding skills. My projects on GitHub showcase my experience with web development, coding challenges, and collaboration. I’m always eager to learn new technologies and grow as a Software Engineer while contributing to open-source projects.
 - 💞️ I’m looking to collaborate on Open to new opportunities and collaborations.
 - 📫 How to reach me @sprakesh4114.gmail.com
 - 😄 Pronouns: Mr. Rakesh
